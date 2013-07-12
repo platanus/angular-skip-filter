@@ -3,7 +3,7 @@
 describe('Filter: skip', function () {
 
   // load the filter's module
-  beforeEach(module('platanus.filters'));
+  beforeEach(module('platanus.skip-filter'));
 
   // initialize a new instance of the filter before each test
   var skip, data;
