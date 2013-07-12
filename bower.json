@@ -1,0 +1,16 @@
+{
+  "name": "angular-platanus-skip-filter",
+  "version": "0.0.1",
+  "main": "skip.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".bowerrc",
+    ".travis.yml"
+  ],
+  "dependencies": {
+    "angular": "~1.0.6",
+    "angular-mocks": "~1.0.6"
+  }
+}

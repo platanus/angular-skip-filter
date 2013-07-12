@@ -1,0 +1,20 @@
+{
+  "name": "platanus-skip-filter",
+  "version": "0.0.1",
+  "description": "A filter to skip some elements on an array.",
+  "main": "\"\"",
+  "scripts": {
+    "test": "karma start --single-run --no-auto-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angular-platanus/skip-filter.git"
+  },
+  "author": "Juan Ignacio Donoso <jidonoso@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "f5d7ad2369e0ae0eaf9f3df4117c8d38f0a80631",
+  "devDependencies": {
+    "karma": "~0.8"
+  }
+}
