@@ -7,6 +7,5 @@ Returns an array without the specified amount of elements, removing them from th
 ## Installation
 This filter can be installed through [Bower](http://twitter.github.io/bower):
 
-    bower install angular-platanus-skip-filter
+    bower install angular-skip-filter
 
-For ease of including dependencies in your project, I recommend [Grunt-Bower-Install](https://github.com/stephenplusplus/grunt-bower-install).
