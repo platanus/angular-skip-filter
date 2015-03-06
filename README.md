@@ -1,4 +1,4 @@
-# AngularJS Skip Filter [![Build Status](https://travis-ci.org/angular-platanus/skip-filter.png?branch=master)](https://travis-ci.org/angular-platanus/skip-filter)
+# AngularJS Skip Filter [![Build Status](https://travis-ci.org/platanus/angular-skip-filter.png?branch=master)](https://travis-ci.org/platanus/angular-skip-filter)
 
     {{array | skip:skipCount}}
 
